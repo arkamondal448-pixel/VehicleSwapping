@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
       breakdownOdometerPhoto: "",
       breakdownLocation: document.getElementById("breakdownLocation").value,
       natureOfBreakdown: document.getElementById("problemDescription").value,
-      issuetype: document.getElementById("issuetype").value,
+      issueType: document.getElementById("issuetype").value,
       replacementVehicleReg: document.getElementById("replacementRegNum").value,
       replacementOdometer: document.getElementById("replacementOdometer").value,
       replacementOdometerPhoto: ""
@@ -88,6 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
 });
+
 
 
 
