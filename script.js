@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // ✅ Replace with your deployed Apps Script EXEC URL
-    const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbxQmLbxqUeLPKX44gfhjRdvQa6ZqoG7C884U1CFaMmCPZh0pyLwUhTmvTEp0gCzL2XN6Q/exec";
+    const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbz_RwxWjC8myNkbIZfVjUqQQP_LsMlrFk76cYikC4izpASthedNOCJJ8dB3NLRsz90JlQ/exec";
 
     // Show loading message
     status.classList.remove("hidden");
@@ -88,6 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
 });
+
 
 
 
